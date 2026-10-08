@@ -24,6 +24,7 @@ Each press earns apples. Upgrades add apples per press and per second. Every sta
 - **Your own story:** the ending opens a picture storybook of your game.
 - **Looks and settings:** light and dark modes, Full, Lite and Calm effects (picked automatically on slower devices), a title screen that dresses up for the seasons and more than 40 holidays, and an unlockable mode for players who go the distance.
 - **Safe saving:** progress autosaves in your browser, keeps a backup copy, and can be copied or downloaded to move to another device.
+- **A quick tour:** new players get a short, skippable guided look at the page the first time they play, and can open it again from the How to play button.
 - **Built for kids:** big tap targets, no timers or streaks, nothing to trade, and celebrations checked against flash-safety limits.
 
 ## Playing tips

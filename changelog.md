@@ -1,5 +1,7 @@
 | Date | Type | Change |
 |---|---|---|
+| 2026-10-08 | Added | First-time tour: right after the title screen a brand-new player gets a short guided look at the page (the story of the game, the big apple, the counters, upgrades, stage bar and bottom buttons), with Skip and Back; "Show me around" in How to play brings it back |
+| 2026-10-08 | Changed | The font credits at the bottom and the How to play panel no longer name the hidden unlockable look until it has been unlocked |
 | 2026-10-08 | Fixed | Stage 3 and stage 11 curtains showed up solid black in the shared (player) copy of the game, because its compressed style sheet writes those two colors as names (maroon, coral) that the curtain painter could not read; the browser now converts the color first |
 | 2026-10-08 | Changed | The fiery ring and the dashed orbit ring now turn once per press-per-second shown on the counter (they used to turn twice) |
 | 2026-10-08 | Fixed | Stage 3's curtains are no longer nearly black: the very dark maroon is brightened to a rich crimson velvet with softer shading, in every look |
