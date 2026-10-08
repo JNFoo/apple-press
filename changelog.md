@@ -1,6 +1,6 @@
 | Date | Type | Change |
 |---|---|---|
-| 2026-10-08 | Changed | Smoother curtains and presses: the next stage's curtain is painted about five times faster (the same picture, checked pixel by pixel), the falling-pieces layer no longer makes the browser do extra layout work on every press, and a press reads the page layout once instead of three times |
+| 2026-10-08 | Changed | Smoother curtains and presses: the next stage's curtain is painted about five times faster (the same picture, checked to be identical), the falling-pieces layer no longer makes the browser do extra layout work on every press, and a press reads the page layout once instead of three times |
 | 2026-10-08 | Fixed | A thin strip under the gold hem at the bottom of the closing curtains was see-through, so the busy game behind it showed (and seemed to flicker); it is now a solid dark stage floor, in both looks |
 | 2026-10-08 | Added | Finishing the first-time tour (not skipping it) sends a golden apple floating across the scene as a gift, once per browser; it is bigger and slower than usual so a first-time player can catch it |
 | 2026-10-08 | Added | First-time tour: right after the title screen a brand-new player gets a short guided look at the page (the story of the game, the big apple, the counters, upgrades, stage bar and bottom buttons), with Skip and Back; "Show me around" in How to play brings it back |
