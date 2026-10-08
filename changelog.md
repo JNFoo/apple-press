@@ -1,5 +1,6 @@
 | Date | Type | Change |
 |---|---|---|
+| 2026-10-08 | Changed | The title screen no longer comes back after the game has been left untouched for an hour (it did not work well on the online versions) |
 | 2026-10-08 | Changed | Smoother curtains and presses: the next stage's curtain is painted about five times faster (the same picture, checked to be identical), the falling-pieces layer no longer makes the browser do extra layout work on every press, and a press reads the page layout once instead of three times |
 | 2026-10-08 | Fixed | A thin strip under the gold hem at the bottom of the closing curtains was see-through, so the busy game behind it showed (and seemed to flicker); it is now a solid dark stage floor, in both looks |
 | 2026-10-08 | Added | Finishing the first-time tour (not skipping it) sends a golden apple floating across the scene as a gift, once per browser; it is bigger and slower than usual so a first-time player can catch it |
