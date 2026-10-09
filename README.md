@@ -1,20 +1,26 @@
-# Apple Press
+# 🍎 Apple Press
 
 > **BETA: for testers only.** This is a work-in-progress version of the game that friends and family are helping to test. Things will change, and some things may be rough. Your progress is saved in your own browser, and a new update could occasionally change how the game plays.
 
-**Play it here: https://jnfoo.github.io/apple-press/**
+**▶ Play it here: https://jnfoo.github.io/apple-press/**
+
+<p align="center"><img src="images/play-desktop.jpg" alt="Apple Press on a computer: a big smiling apple on a scene, with upgrades on the right" width="860"></p>
 
 Apple Press is a free clicker game for kids in a single web page. Tap a big cartoon apple to pick apples, buy upgrades, and grow a little backyard orchard into something far, far bigger.
+
+<p align="center"><img src="images/special-apples.jpg" alt="Special apples that fly across the scene: golden, crystal, jade, rainbow, comet, cosmic and poison" width="760"></p>
 
 - **For children and families.** No ads, no purchases, no accounts.
 - **Works offline.** After it loads once, no internet is needed. Open it in any modern browser on a phone, tablet or computer.
 - **Quiet by design.** There are no sounds or music, so there is no volume to manage. That suits kids with sensory challenges, and parents who have heard enough beeping for one day.
 
-## How it plays
+## 🎮 How it plays
 
 Each press earns apples. Upgrades add apples per press and per second. Every stage brings a promotion party, a new animated scene, a new apple color and new upgrades. A first adventure ends after six stages; after that, the full 13-stage journey opens up, and the most dedicated players may find there is more to discover.
 
-## What's in the game
+<p align="center"><img src="images/promotion.jpg" alt="The promotion party: confetti, a new stage name and new upgrades unlocked" width="860"></p>
+
+## ⭐ What's in the game
 
 - **A lively apple:** about 22 moods, eyes that follow your finger, and a spin now and then to show off. You can hold the apple down instead of tapping.
 - **Upgrades that double:** own 10, 25 or 50 of the same upgrade and every copy gets twice as strong.
@@ -24,23 +30,32 @@ Each press earns apples. Upgrades add apples per press and per second. Every sta
 - **Your own story:** the ending opens a picture storybook of your game.
 - **Looks and settings:** light and dark modes, Full, Lite and Calm effects (picked automatically on slower devices), a title screen that dresses up for the seasons and more than 40 holidays, and an unlockable mode for players who go the distance.
 - **Safe saving:** progress autosaves in your browser, keeps a backup copy, and can be copied or downloaded to move to another device.
-- **A quick tour:** new players get a short, skippable guided look at the page the first time they play, and can open it again from the How to play button.
+- **A quick tour:** new players get a friendly guided look at the page the first time they play, in short steps with simple words that young children can follow. It can be skipped, and opened again from the How to play button.
 - **Built for kids:** big tap targets, no timers or streaks, nothing to trade, and celebrations checked against flash-safety limits.
 
-## Playing tips
+<table>
+<tr>
+<td align="center" valign="top"><img src="images/play-phone.jpg" alt="Apple Press on a phone held upright" width="300"><br><sub>On a phone</sub></td>
+<td align="center" valign="top"><img src="images/sticker-book.jpg" alt="The sticker book with nine apple faces to collect" width="340"><br><sub>The sticker book: 49 to collect</sub></td>
+</tr>
+</table>
+
+<p align="center"><img src="images/play-dark.jpg" alt="Apple Press in dark mode at night" width="760"><br><sub>Dark mode, with a night scene</sub></p>
+
+## 💡 Playing tips
 
 - Phones play best held upright. Tablets can be played sideways.
 - If the game feels slow on an older device, try the Lite or Calm effects setting.
 - Clearing your browser's site data erases your saved progress, so use the save backup first if you want to keep it.
 
-## Testing and feedback
+## 🧪 Testing and feedback
 
 Please tell Jawad what you find: anything confusing, anything too hard or too slow, anything that looks or runs badly, and which device and browser you used. If you have a GitHub account you can also open an issue on this page.
 
-## What's new
+## 🆕 What's new
 
 See [changelog.md](changelog.md) for the full list of changes, newest first.
 
-## Ownership
+## © Ownership
 
 Copyright © 2026 Jawad Niazi. All rights reserved. A license will be chosen once the game reaches version 1.0. The fonts are used under the SIL Open Font License.
