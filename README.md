@@ -12,7 +12,6 @@ Apple Press is a free clicker game for kids in a single web page. Tap a big cart
 
 - **For children and families.** No ads, no purchases, no accounts.
 - **Works offline.** After it loads once, no internet is needed. Open it in any modern browser on a phone, tablet or computer.
-- **Quiet by design.** There are no sounds or music, so there is no volume to manage. That suits kids with sensory challenges, and parents who have heard enough beeping for one day.
 
 ## 🎮 How it plays
 
@@ -22,7 +21,7 @@ Each press earns apples. Upgrades add apples per press and per second. Every sta
 
 ## ⭐ What's in the game
 
-- **A lively apple:** about 22 moods, eyes that follow your finger, and a spin now and then to show off. You can hold the apple down instead of tapping.
+- **A lively apple:** about 22 moods, eyes that follow your finger, and a spin now and then to show off. 
 - **Upgrades that double:** own 10, 25 or 50 of the same upgrade and every copy gets twice as strong.
 - **Combos:** press quickly to build a combo and watch the counter heat up from ember red to white-hot.
 - **Special apples:** golden, crystal, jade, rainbow, comet, cosmic and a few secret kinds fly across the scene. Catch them for bursts of apples and bonus credits. In the later stages, watch out for the poison apple!
@@ -31,7 +30,7 @@ Each press earns apples. Upgrades add apples per press and per second. Every sta
 - **Looks and settings:** light and dark modes, Full, Lite and Calm effects (picked automatically on slower devices), a title screen that dresses up for the seasons and more than 40 holidays, and an unlockable mode for players who go the distance.
 - **Safe saving:** progress autosaves in your browser, keeps a backup copy, and can be copied or downloaded to move to another device.
 - **A quick tour:** new players get a friendly guided look at the page the first time they play, in short steps with simple words that young children can follow. It can be skipped, and opened again from the How to play button.
-- **Built for kids:** big tap targets, no timers or streaks, nothing to trade, and celebrations checked against flash-safety limits.
+- **Built for kids:** big tap targets, no timers or streaks, and nothing to trade.
 
 <table>
 <tr>
@@ -41,6 +40,13 @@ Each press earns apples. Upgrades add apples per press and per second. Every sta
 </table>
 
 <p align="center"><img src="images/play-dark.jpg" alt="Apple Press in dark mode at night" width="760"><br><sub>Dark mode, with a night scene</sub></p>
+
+## ♿ Accessibility
+
+- **No noise.** There are no sounds or music, so there is no volume to manage. That suits kids with sensory challenges, and parents who have heard enough beeping for one day.
+- **Flash-safe celebrations.** The promotion celebrations are checked against flash-safety limits.
+- **Hold to press.** Hold the apple down and it keeps pressing for you, which helps tired hands and younger players who find rapid tapping hard. It can be switched off in the footer.
+- **Gentler effects.** The Calm effects setting tones down motion, and the game picks a lighter setting by itself on slower devices.
 
 ## 💡 Playing tips
 
