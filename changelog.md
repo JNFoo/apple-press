@@ -1,5 +1,10 @@
 | Date | Type | Change |
 |---|---|---|
+| 2026-10-08 | Added | A small game logo (the title-screen apple, never dressed for a season) sits to the left of the stage bar at the top |
+| 2026-10-08 | Changed | The fireworks over the city on the National Brand stage now show only on night (dark mode) scenes, not on daytime ones |
+| 2026-10-08 | Fixed | The chimney on the Cider Mill background now sits properly on the roof |
+| 2026-10-08 | Fixed | In the tour, the Click upgrades, Helper upgrades and Prices go up steps now light up one upgrade (or just its price) instead of the whole shop |
+| 2026-10-08 | Changed | The first-time tour is rewritten for children about 6 years old: short sentences and simple words, split into 18 small steps (was 7), with separate steps for each number under the apple, click upgrades, helper upgrades, new stages, and the special apples, sticker book, save and help buttons |
 | 2026-10-08 | Changed | The curtains' fly-through at the end of a promotion is lighter: it zooms to 1.5x instead of 1.9x and finishes 200 ms sooner, because a full-screen layer scaling while fading made the browser's compositor drop frames (profile of the hosted page showed long composites with texture-cache churn during that moment) |
 | 2026-10-08 | Changed | The title screen no longer comes back after the game has been left untouched for an hour (it did not work well on the online versions) |
 | 2026-10-08 | Changed | Smoother curtains and presses: the next stage's curtain is painted about five times faster (the same picture, checked to be identical), the falling-pieces layer no longer makes the browser do extra layout work on every press, and a press reads the page layout once instead of three times |
