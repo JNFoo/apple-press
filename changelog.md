@@ -1,5 +1,6 @@
 | Date | Type | Change |
 |---|---|---|
+| 2026-10-09 | Changed | The small logo by the stage bar is now a scaled-down copy of the title-screen logo (the same apple overlapping the red "Apple" and green "Press" pill, with the leaf), not a separate drawing; the retro look swaps in its pixel apple as before |
 | 2026-10-08 | Added | The small logo now includes the words ("Apple" over "Press", from the Title setting), left of the stage bar |
 | 2026-10-08 | Added | When the big apple scrolls out of view on a narrow window or phone, it now shrinks into the small apple in the top bar (a flying copy, 0.4 s); scrolling back up grows it back out of the small apple into the big one. Skipped in Calm effects and with reduced motion |
 | 2026-10-08 | Added | A version number (the build's date and time, USA Eastern, e.g. 2026.10.08.2323) shows at the bottom right of the title screen and above the font credits at the bottom of the page. Every new build gets a new one automatically |
