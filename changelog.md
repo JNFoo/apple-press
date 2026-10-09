@@ -1,5 +1,8 @@
 | Date | Type | Change |
 |---|---|---|
+| 2026-10-08 | Added | The small logo now includes the words ("Apple" over "Press", from the Title setting), left of the stage bar |
+| 2026-10-08 | Added | When the big apple scrolls out of view on a narrow window or phone, it now shrinks into the small apple in the top bar (a flying copy, 0.4 s); scrolling back up grows it back out of the small apple into the big one. Skipped in Calm effects and with reduced motion |
+| 2026-10-08 | Added | A version number (the build's date and time, USA Eastern, e.g. 2026.10.08.2323) shows at the bottom right of the title screen and above the font credits at the bottom of the page. Every new build gets a new one automatically |
 | 2026-10-08 | Added | A small game logo (the title-screen apple, never dressed for a season) sits to the left of the stage bar at the top |
 | 2026-10-08 | Changed | The fireworks over the city on the National Brand stage now show only on night (dark mode) scenes, not on daytime ones |
 | 2026-10-08 | Fixed | The chimney on the Cider Mill background now sits properly on the roof |
