@@ -1,5 +1,6 @@
 | Date | Type | Change |
 |---|---|---|
+| 2026-10-12 | Fixed | On a phone, the stage curtains could glitch: the right curtain stayed parked off to the side instead of closing in the middle with the left one. Each curtain now puts itself in its final place when it finishes sliding, and a timer finishes any curtain that is running late |
 | 2026-10-09 | Changed | The small logo by the stage bar is now a scaled-down copy of the title-screen logo (the same apple overlapping the red "Apple" and green "Press" pill, with the leaf), not a separate drawing; the retro look swaps in its pixel apple as before |
 | 2026-10-08 | Added | The small logo now includes the words ("Apple" over "Press", from the Title setting), left of the stage bar |
 | 2026-10-08 | Added | When the big apple scrolls out of view on a narrow window or phone, it now shrinks into the small apple in the top bar (a flying copy, 0.4 s); scrolling back up grows it back out of the small apple into the big one. Skipped in Calm effects and with reduced motion |
