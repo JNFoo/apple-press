@@ -65,7 +65,7 @@ See [changelog.md](changelog.md) for the full list of changes, newest first.
 ## More from JNFoo
 
 - [Fancy Banana](https://github.com/JNFoo/fancy-banana): a one-tap flying-banana arcade game ([play](https://jnfoo.github.io/fancy-banana/))
-- [browser-game-toolkit](https://github.com/JNFoo/browser-game-toolkit): free (MIT) code pieces taken from this game ([demos](https://jnfoo.github.io/browser-game-toolkit/))
+- [JS-modules](https://github.com/JNFoo/JS-modules): free (MIT) code pieces taken from this game ([demos](https://jnfoo.github.io/JS-modules/))
 
 ## © Ownership
 
