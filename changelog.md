@@ -1,5 +1,10 @@
 | Date | Type | Change |
 |---|---|---|
+| 2026-10-12 | Fixed | The stage curtains could stay shut for good (and earnings stop) if progress dropped, for example from a poison apple, while they were closing. They now open and the game carries on |
+| 2026-10-12 | Fixed | On the last bonus stage, every press failed partway through (a confetti color was missing), which also stopped the game clock's later steps, such as boost timers and stickers, whenever autoclickers were owned |
+| 2026-10-12 | Fixed | Autoclicker pop-up numbers were tripled or quintupled while a press boost was running, though what they earned was not |
+| 2026-10-12 | Changed | Time a phone or hidden tab spends frozen now counts at the "away" rate (at most 8 hours), the same as reopening the game, instead of full speed |
+| 2026-10-12 | Fixed | Starting a new run now clears special apples still flying from the old one, and a missing price can never turn bonus credits into a broken number |
 | 2026-10-12 | Fixed | On a phone, the stage curtains could glitch: the right curtain stayed parked off to the side instead of closing in the middle with the left one. Each curtain now puts itself in its final place when it finishes sliding, and a timer finishes any curtain that is running late |
 | 2026-10-09 | Changed | The small logo by the stage bar is now a scaled-down copy of the title-screen logo (the same apple overlapping the red "Apple" and green "Press" pill, with the leaf), not a separate drawing |
 | 2026-10-08 | Added | The small logo now includes the words ("Apple" over "Press", from the Title setting), left of the stage bar |
