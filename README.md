@@ -62,6 +62,11 @@ Please tell JNFoo what you find: anything confusing, anything too hard or too sl
 
 See [changelog.md](changelog.md) for the full list of changes, newest first.
 
+## More from JNFoo
+
+- [Fancy Banana](https://github.com/JNFoo/fancy-banana): a one-tap flying-banana arcade game ([play](https://jnfoo.github.io/fancy-banana/))
+- [browser-game-toolkit](https://github.com/JNFoo/browser-game-toolkit): free (MIT) code pieces taken from this game ([demos](https://jnfoo.github.io/browser-game-toolkit/))
+
 ## © Ownership
 
 Copyright © 2026 JNFoo. All rights reserved. A license will be chosen once the game reaches version 1.0. The fonts are used under the SIL Open Font License.

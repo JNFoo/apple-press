@@ -1,5 +1,6 @@
 | Date | Type | Change |
 |---|---|---|
+| 2026-10-12 | Changed | The copyright holder is now JNFoo, and the page footer has a "More from JNFoo" line linking to Fancy Banana, the free (MIT) game code taken from this game, and the source |
 | 2026-10-12 | Fixed | The stage curtains could stay shut for good (and earnings stop) if progress dropped, for example from a poison apple, while they were closing. They now open and the game carries on |
 | 2026-10-12 | Fixed | On the last bonus stage, every press failed partway through (a confetti color was missing), which also stopped the game clock's later steps, such as boost timers and stickers, whenever autoclickers were owned |
 | 2026-10-12 | Fixed | Autoclicker pop-up numbers were tripled or quintupled while a press boost was running, though what they earned was not |
