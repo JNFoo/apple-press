@@ -1,5 +1,6 @@
 | Date | Type | Change |
 |---|---|---|
+| 2026-10-13 | Changed | The lighter special apple (while only part of the play area is on screen) also applies in the unlockable mode, where it keeps its pixel look |
 | 2026-10-13 | Fixed | On a phone, the right curtain could jump a hair just before the curtains part for a promotion. The curtain pictures are now smooth when scaled, and a finished slide is no longer swapped for a still picture at that moment |
 | 2026-10-13 | Added | When the small apple is showing in the top bar (you are looking through the upgrades) and a special apple flies into the play area, the small apple now glows and bounces twice so you know to look up |
 | 2026-10-13 | Changed | Special apples are lighter to draw while only part of the play area is on screen (one small glow, and the twinkling holds still), which fixes the slowdown when one arrived while you were looking through the upgrades |
