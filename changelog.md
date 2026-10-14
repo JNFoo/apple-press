@@ -1,5 +1,6 @@
 | Date | Type | Change |
 |---|---|---|
+| 2026-10-13 | Changed | The glow around special apples is now a soft halo drawn once behind the apple instead of a blur filter that had to be redrawn every frame while the little stars twinkle. It looks the same, and the glow now stays full even while you scroll through the upgrades. The twinkling and orbiting stars only hold still when less than half of the play area is on screen
 | 2026-10-13 | Added | A Buy switch above the upgrade list: x1, x10 (only when you can pay for all 10) or Max (as many as you can afford, up to 100 per tap). Your choice is remembered in this browser
 | 2026-10-13 | Added | Under the next upgrade you cannot afford yet, a small note says about how long until you can (using your passive speed, your live pressing speed, or two presses a second if neither applies)
 | 2026-10-13 | Added | Save & load now has a Slow-moment note: the game quietly keeps the last 30 errors, slow taps and slow frames on this device only, and a Copy note button lets a grown-up share them. Nothing is sent anywhere
